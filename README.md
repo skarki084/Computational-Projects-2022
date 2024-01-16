@@ -1,4 +1,3 @@
 # Computational-Math-Projects
-Here are computational projects I made in the Modern Computational Math course. 
-
-The projects done in Mathematica are uploaded as pdf's and those done in Python from Google Collab are as .ipynb's
+Welcome to my repository!
+This is a collection of computational math projects I have completed during undergrad and during my master's at University of Washington.
