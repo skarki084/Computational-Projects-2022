@@ -4,5 +4,5 @@
 
 layout: home
 ---
-Welcome to my personal website! Take a look at my [Projects](./projects/) or learn more [about Me](./about/).
+Welcome to my personal website! Take a look at my [projects](./projects/) or learn more [about me](./about/).
 
