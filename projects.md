@@ -16,4 +16,4 @@ permalink: /projects/
 
 - [Stability for Various Time Integration Methods for the Initial Boundary Value Problem](./Scientific_Computation_Projects_Fall_2023/report4.html)
 - [9-Point Stencil Laplacian for the Poisson Equation](./Scientific_Computation_Projects_Fall_2023/report3.html)
-- [Alternating-Direction Implicit Method for the Laplace Equation](./Scientific_Computation_Fall_2023/final_project_write_up.html)
+- [Alternating-Direction Implicit Method for the Laplace Equation](./Scientific_Computation_Projects_Fall_2023/final_project_write_up.html)
