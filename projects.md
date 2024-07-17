@@ -13,8 +13,7 @@ permalink: /projects/
 - [Convolutional Neural Network: Fashion MNIST](./Data_Methods_Winter_2024/hw_5/582_Homework_5_CNN.pdf)
 
 #AMATH 581 Scientific Computing
-- [Stability for Various Time Integration Methods for the Initial Boundary Value Problem](./Scientific_Computation_Projects_Fall_2023/report4.ipynb)
 
--[9-Point Stencil Laplacian for the Poisson Equation](./Scientific_Computation_Projects_Fall_2023/report3.ipynb)
-
--[Alternating-Direction Implicit Method for the Laplace Equation](./Scientific_Computation_Fall_2023/final_project_write_up.ipynb)
+-[Stability for Various Time Integration Methods for the Initial Boundary Value Problem](./Scientific_Computation_Projects_Fall_2023/report4.html)
+-[9-Point Stencil Laplacian for the Poisson Equation](./Scientific_Computation_Projects_Fall_2023/report3.html)
+-[Alternating-Direction Implicit Method for the Laplace Equation](./Scientific_Computation_Fall_2023/final_project_write_up.html)
