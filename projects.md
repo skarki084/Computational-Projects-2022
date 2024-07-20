@@ -21,7 +21,7 @@ permalink: /projects/
 # Undergraduate Research and Class Projects
 
 - [Snow Albedo Research Poster at St. Olaf](./previous research projects/ISE_poster_Karki_Jiayi_Larson.pdf)
-- [Liquid Drop Pinch-off Behavior](./previous research projects/liquid_drop_phy_lab.pdf)
+- [Liquid Drop Pinch-off Behavior](./previous research projects/liquid_drop_phys_lab.pdf)
 - [Ion Trapping Simulation Poster at University of Washington](./previous research projects/UW_REU_poster.pdf)
 - [Monte Carlo Simulation: The Sticker Collector's Problem](./Computational_math_2022/Modern_Comp_Final_Project_Alexander_Samip.html)
 - [2D Random Walks](./Computational_math_2022/Random_Walks_Project.html)
