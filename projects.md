@@ -18,8 +18,9 @@ permalink: /projects/
 - [9-Point Stencil Laplacian for the Poisson Equation](./Scientific_Computation_Projects_Fall_2023/report3.html)
 - [Alternating-Direction Implicit Method for the Laplace Equation](./Scientific_Computation_Projects_Fall_2023/final_project_write_up.html)
 
-# Undergraduate Research and Class Projects
+# Physics Research and Undergrad Projects
 
+- [Memristor Based Reservoir Computing at Los Alamos National Lab](./previous research projects/LANL_Report_5_8.pdf)
 - [Snow Albedo Research Poster at St. Olaf](./previous research projects/ISE_poster_Karki_Jiayi_Larson.pdf)
 - [Liquid Drop Pinch-off Behavior](./previous research projects/liquid_drop_phys_lab.pdf)
 - [Ion Trapping Simulation Poster at University of Washington](./previous research projects/UW_REU_poster.pdf)
